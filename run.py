@@ -1,3 +1,0 @@
-import crack
-
-crack.main()
